@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhinendra2016/Abhinendra_2016/blob/main/hvgfhj.png)
 <h1 align="center">Hi 👋, I'm Abhinendra Pratap Singh</h1>
-<h3 align="center">Enthusiastic MERN stack developer eager to learn, collaborate, and build innovative applications.</h3>
+<h3 align="center">Enthusiastic MERN stack developer And Security analyst eager to learn, collaborate, and build innovative applications.</h3>
 
 <img align="right" alt="coding" width="400" src ="https://www.shootdartsolutions.com/img/service/web-design.gif">
 
@@ -8,11 +8,11 @@
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Abhinendra-Pratap-Singh-1](https://www.quora.com/profile/Abhinendra-Pratap-Singh-1)
 
-- 💬 Ask me about **Ask me about building web apps with MERN magic <br>- I can help you debug, strategize and sprinkle in some sass. <br> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Let's make your app the talk of the stack!**
+- 💬 Ask me about **Ask me about building web apps with MERN magic <br>- I can help you debug, strategize, and sprinkle in some sass. <br> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Let's make your app the talk of the stack!**
 
 - 📫 How to reach me **abhinendrapratap2016@gmail.com**
 
-- ⚡ Fun fact **Did you know that a good MERN stack developer has the power to turn caffeine into code? <br>They're fueled by coffee and their love for creating seamless user experiences. <br> So if you want to get on their good side, bring them a cup of joe!**
+- ⚡ Fun fact **Did you know that a good MERN stack developer and A security analyst  have the power to turn caffeine into code? <br>They're fueled by coffee and their love for creating seamless user experiences. <br> So if you want to get on their good side, bring them a cup of joe!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
