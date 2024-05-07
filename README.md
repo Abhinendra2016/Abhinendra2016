@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhinendra2016/Abhinendra_2016/blob/main/hvgfhj.png)
+![logo1](https://github.com/Abhinendra2016/Abhinendra2016/blob/e6918d1b01c3fec6d0533ac674a9d1f932811115/mix.jpg)
 <h1 align="center">Hi 👋, I'm Abhinendra Pratap Singh</h1>
 <h3 align="center">Enthusiastic MERN stack developer And Security analyst eager to learn, collaborate, and build innovative applications.</h3>
 
