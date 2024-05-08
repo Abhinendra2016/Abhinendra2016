@@ -1,18 +1,21 @@
 ![logo1](https://github.com/Abhinendra2016/Abhinendra2016/blob/e6918d1b01c3fec6d0533ac674a9d1f932811115/mix.jpg)
 <h1 align="center">Hi 👋, I'm Abhinendra Pratap Singh</h1> 
-<h3 align="center">Enthusiastic MERN stack developer And Security analyst eager to learn, collaborate, and build innovative applications.</h3>
+<h3 align="center"> Proficiency in SEO, Front-end Development, Digital Marketing, Cybersecurity, and Python. Dedicated to achieving impactful outcomes through innovative digital strategies and development.</h3>
 
 <img align="right" alt="coding" width="400" src ="https://www.shootdartsolutions.com/img/service/web-design.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Abhinendra-Pratap-Singh-1](https://www.quora.com/profile/Abhinendra-Pratap-Singh-1)
+- 📝 I regularly write articles on [![Quora Logo](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Abhinendra-Pratap-Singh-1)
+
+
 
 - 💬 Ask me about **Ask me about building web apps with MERN magic <br>- I can help you debug, strategize, and sprinkle in some sass. <br> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Let's make your app the talk of the stack!**
 
-- 📫 How to reach me **abhinendrapratap2016@gmail.com**
+- 📫 How to reach me [![Quora Logo]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abhinendrapratap2016@gmail.com)
 
-- ⚡ Fun fact **Did you know that a good MERN stack developer and A security analyst  have the power to turn caffeine into code? <br>They're fueled by coffee and their love for creating seamless user experiences. <br> So if you want to get on their good side, bring them a cup of joe!**
+- ⚡ Fun fact Well, it just so happens that I'm a master of many trades, including **SEO**, **front-end**, **digital marketing**, **Cybersecurity**, and **Python**. I'm absolutely thrilled to dazzle you with my skills in driving results through digital strategies and development. Just another day in the life of a digital superhero!
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
