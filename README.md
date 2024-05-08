@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhinendra Pratap Singh</h1> 
 <h3 align="center"> Proficiency in SEO, Front-end Development, Digital Marketing, Cybersecurity, and Python. Dedicated to achieving impactful outcomes through innovative digital strategies and development.</h3>
 
-<img align="right" alt="coding" width="400" src ="https://www.shootdartsolutions.com/img/service/web-design.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📝 I regularly write articles on [![Quora Logo](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Abhinendra-Pratap-Singh-1)
 
