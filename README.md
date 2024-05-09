@@ -2,18 +2,16 @@
 <h1 align="center">Hi 👋, I'm Abhinendra Pratap Singh</h1> 
 <h3 align="center"> Proficiency in SEO, Front-end Development, Digital Marketing, Cybersecurity, and Python. Dedicated to achieving impactful outcomes through innovative digital strategies and development.</h3>
 
-
-
 - 📝 I regularly write articles on [![Quora Logo](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Abhinendra-Pratap-Singh-1)
 
 
 
-- 💬 Ask me about **Ask me about building web apps with MERN magic <br>- I can help you debug, strategize, and sprinkle in some sass. <br> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Let's make your app the talk of the stack!**
 
-- 📫 How to reach me [![Quora Logo]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abhinendrapratap2016@gmail.com)
+- 💬 Ask me about Ask me about building web apps with MERN and Marketing magic <br>- I can help you debug, strategize, and sprinkle in some sass . <br> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Let's make your app the talk of the stack!**
+
+- 📫 How to reach me [![Gmail Logo]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abhinendrapratap2016@gmail.com)
 
 - ⚡ Fun fact Well, it just so happens that I'm a master of many trades, including **SEO**, **front-end**, **digital marketing**, **Cybersecurity**, and **Python**. I'm absolutely thrilled to dazzle you with my skills in driving results through digital strategies and development. Just another day in the life of a digital superhero!
-**
 
 <h3 align="center">Connect with me on other platforms</h3>
 
