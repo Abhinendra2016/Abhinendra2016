@@ -90,8 +90,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinendra2016&layout=compact&langs_count=8" alt="Top Languages"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinendra2016&hide=stars&show_icons=true&line_height=48&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinendra2016&count_private=true&line_height=40&theme=tokyonight">
+
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
