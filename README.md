@@ -28,7 +28,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/abhinendraprata1?hr_r=1" target="blank">
+      <a href="https://www.hackerrank.com/profile/abhinendra_2016" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
       </a>
     </td>
