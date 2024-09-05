@@ -23,7 +23,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.codechef.com/users/abhinendra2016" target="blank">
+      <a href="https://www.codechef.com/users/abhinendra2o16" target="blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
       </a>
     </td>
